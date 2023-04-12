@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Player.png</Source>
+      <Name>Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Player.xnb</Output>
+      <Time>2018-07-02T12:05:55.6318656+04:30</Time>
+    </Item>
+    <Item>
+      <Source>BlackBlock.png</Source>
+      <Name>BlackBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\BlackBlock.xnb</Output>
+      <Time>2018-07-02T12:08:19.5335552+04:30</Time>
+    </Item>
+    <Item>
+      <Source>RedBlock.png</Source>
+      <Name>RedBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\RedBlock.xnb</Output>
+      <Time>2018-07-02T12:08:29.3610795+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Wallpaper1.jpg</Source>
+      <Name>Wallpaper1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Wallpaper1.xnb</Output>
+      <Time>2018-07-02T16:04:55.3609037+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Button Play.png</Source>
+      <Name>Button Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Button Play.xnb</Output>
+      <Time>2018-07-02T20:08:03.7298313+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Death.wav</Source>
+      <Name>Death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Death.xnb</Output>
+      <Time>2018-07-03T02:42:48.0802113+04:30</Time>
+    </Item>
+    <Item>
+      <Source>BridgeFalling.wav</Source>
+      <Name>BridgeFalling</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\BridgeFalling.xnb</Output>
+      <Time>2018-07-03T02:42:54.5488879+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Score.wav</Source>
+      <Name>Score</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Score.xnb</Output>
+      <Time>2018-07-03T02:43:00.5021177+04:30</Time>
+    </Item>
+    <Item>
+      <Source>LOGO.png</Source>
+      <Name>LOGO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\LOGO.xnb</Output>
+      <Time>2018-07-03T05:13:04.9611271+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Options Button.png</Source>
+      <Name>Options Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Options Button.xnb</Output>
+      <Time>2018-07-03T05:14:23.0849316+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Character Select.png</Source>
+      <Name>Character Select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Character Select.xnb</Output>
+      <Time>2018-07-03T05:26:28.0945984+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Melon Mode.png</Source>
+      <Name>Melon Mode</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Melon Mode.xnb</Output>
+      <Time>2018-07-03T12:23:00.1556826+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Help.png</Source>
+      <Name>Help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Help.xnb</Output>
+      <Time>2018-07-03T12:28:41.6724378+04:30</Time>
+    </Item>
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\myFont.xnb</Output>
+      <Time>2018-07-03T16:02:40.8302333+04:30</Time>
+    </Item>
+    <Item>
+      <Source>INGameScore.png</Source>
+      <Name>INGameScore</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\INGameScore.xnb</Output>
+      <Time>2018-07-03T16:00:07.2086055+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Options.png</Source>
+      <Name>Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Options.xnb</Output>
+      <Time>2018-07-03T16:24:04.3299668+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Music.png</Source>
+      <Name>Music</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Music.xnb</Output>
+      <Time>2018-07-03T16:43:20.9924432+04:30</Time>
+    </Item>
+    <Item>
+      <Source>ToggleFullscreen.png</Source>
+      <Name>ToggleFullscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\ToggleFullscreen.xnb</Output>
+      <Time>2018-07-03T18:23:04.2748171+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Sound.png</Source>
+      <Name>Sound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Sound.xnb</Output>
+      <Time>2018-07-03T16:47:43.9493135+04:30</Time>
+    </Item>
+    <Item>
+      <Source>OFFOFF.png</Source>
+      <Name>OFFOFF</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\OFFOFF.xnb</Output>
+      <Time>2018-07-03T19:12:12.9790014+04:30</Time>
+    </Item>
+    <Item>
+      <Source>OFFON.png</Source>
+      <Name>OFFON</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\OFFON.xnb</Output>
+      <Time>2018-07-03T19:12:18.6049849+04:30</Time>
+    </Item>
+    <Item>
+      <Source>ONOFF.png</Source>
+      <Name>ONOFF</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\ONOFF.xnb</Output>
+      <Time>2018-07-03T19:11:53.0503582+04:30</Time>
+    </Item>
+    <Item>
+      <Source>ONON.png</Source>
+      <Name>ONON</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\ONON.xnb</Output>
+      <Time>2018-07-03T19:11:47.5242812+04:30</Time>
+    </Item>
+    <Item>
+      <Source>BACK.png</Source>
+      <Name>BACK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\BACK.xnb</Output>
+      <Time>2018-07-03T19:55:27.1359364+04:30</Time>
+    </Item>
+    <Item>
+      <Source>WIND.mp3</Source>
+      <Name>WIND</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\WIND.xnb</Output>
+      <Extra>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\WIND.wma</Extra>
+      <Time>2018-07-03T20:41:37.8799464+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Button Menu.png</Source>
+      <Name>Button Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Button Menu.xnb</Output>
+      <Time>2018-07-04T10:57:35.3988718+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Button PlayAgain.png</Source>
+      <Name>Button PlayAgain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Button PlayAgain.xnb</Output>
+      <Time>2018-07-04T12:31:48.6642473+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Button Stats.png</Source>
+      <Name>Button Stats</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Button Stats.xnb</Output>
+      <Time>2018-07-04T13:15:58.7937221+04:30</Time>
+    </Item>
+    <Item>
+      <Source>ScoreBoard -Gameover.png</Source>
+      <Name>ScoreBoard -Gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\ScoreBoard -Gameover.xnb</Output>
+      <Time>2018-07-04T13:26:33.883552+04:30</Time>
+    </Item>
+    <Item>
+      <Source>11.jpg</Source>
+      <Name>11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\11.xnb</Output>
+      <Time>2018-07-04T14:03:56.455059+04:30</Time>
+    </Item>
+    <Item>
+      <Source>12.jpg</Source>
+      <Name>12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\12.xnb</Output>
+      <Time>2018-07-04T14:04:02.173995+04:30</Time>
+    </Item>
+    <Item>
+      <Source>21.jpg</Source>
+      <Name>21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\21.xnb</Output>
+      <Time>2018-07-04T14:04:07.7811709+04:30</Time>
+    </Item>
+    <Item>
+      <Source>22.jpg</Source>
+      <Name>22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\22.xnb</Output>
+      <Time>2018-07-04T14:04:12.969783+04:30</Time>
+    </Item>
+    <Item>
+      <Source>CS.png</Source>
+      <Name>CS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\CS.xnb</Output>
+      <Time>2018-07-04T14:16:14.7824414+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Sonic.png</Source>
+      <Name>Sonic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Sonic.xnb</Output>
+      <Time>2018-07-04T14:21:42.2986047+04:30</Time>
+    </Item>
+    <Item>
+      <Source>Jafar.png</Source>
+      <Name>Jafar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Jafar.xnb</Output>
+      <Time>2018-07-04T14:23:11.7231644+04:30</Time>
+    </Item>
+    <Item>
+      <Source>MegaMan.png</Source>
+      <Name>MegaMan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\MegaMan.xnb</Output>
+      <Time>2018-07-04T14:26:54.6177142+04:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B1B210B1-D8EC-4C92-983D-6C025E506C94}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HEROContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+04:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-29T12:51:04.3781699+04:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

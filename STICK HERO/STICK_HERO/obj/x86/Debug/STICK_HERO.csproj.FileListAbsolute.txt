@@ -1,0 +1,54 @@
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\obj\x86\Debug\STICK_HERO.csprojResolveAssemblyReference.cache
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Player.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\BlackBlock.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\RedBlock.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\STICK_HERO.exe
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\STICK_HERO.pdb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\obj\x86\Debug\STICK_HERO.exe
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\obj\x86\Debug\STICK_HERO.pdb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Wallpaper1.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Button Play.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Death.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\BridgeFalling.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Score.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\LOGO.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Options Button.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Character Select.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Melon Mode.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Help.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\myFont.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\INGameScore.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Options.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Music.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\ToggleFullscreen.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Sound.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\OFFOFF.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\OFFON.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\ONOFF.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\ONON.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\BACK.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\WIND.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\WIND.wma
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Button Menu.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Button PlayAgain.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Button Stats.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\ScoreBoard -Gameover.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\11.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\12.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\21.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\22.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\CS.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Sonic.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\Jafar.xnb
+E:\Works\Game Projects\XNA Projects\Stick Hero\STICK HERO\STICK HERO\STICK_HERO\bin\x86\Debug\Content\MegaMan.xnb

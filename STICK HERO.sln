@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STICK_HERO", "STICK HERO\STICK_HERO\STICK_HERO.csproj", "{C7FC72EE-6DC6-4945-A4BC-1AFD306FADD1}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "STICK_HEROContent", "STICK HERO\STICK_HEROContent\STICK_HEROContent.contentproj", "{B1B210B1-D8EC-4C92-983D-6C025E506C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FC72EE-6DC6-4945-A4BC-1AFD306FADD1}.Debug|x86.ActiveCfg = Debug|x86
+		{C7FC72EE-6DC6-4945-A4BC-1AFD306FADD1}.Debug|x86.Build.0 = Debug|x86
+		{C7FC72EE-6DC6-4945-A4BC-1AFD306FADD1}.Release|x86.ActiveCfg = Release|x86
+		{C7FC72EE-6DC6-4945-A4BC-1AFD306FADD1}.Release|x86.Build.0 = Release|x86
+		{B1B210B1-D8EC-4C92-983D-6C025E506C94}.Debug|x86.ActiveCfg = Debug|x86
+		{B1B210B1-D8EC-4C92-983D-6C025E506C94}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
